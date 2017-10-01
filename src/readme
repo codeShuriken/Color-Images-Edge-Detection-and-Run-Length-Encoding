@@ -435,23 +435,6 @@ and for your check() method, which is not autogradeable.  Points may be
 subtracted if you break some of the rules stated above, especially the rules on
 where you must use arrays and where you must use linked lists.
 
-Submitting your Solution
-------------------------
-Make sure that your program compiles and runs on the _lab_ machines with the
-autograding program before you submit it.  Change (cd) to your pj1 directory,
-which should contain PixImage.java, RunLengthEncoding.java, RunIterator.java,
-and any other .java files you wish to submit.  If your implementation uses
-.java files in addition to those we have specified, have no fear:  the "submit"
-program will ask you which .java files in your pj1 directory you want to
-submit.  From your pj1 directory, type "submit pj1".
-
-After submitting, if you realize your solution is flawed, you may fix it and
-submit again.  You may submit as often as you like.  Only the last version you
-submit will be graded, unless you inform your reader promptly that you would
-prefer to have an earlier submission graded instead.
-
-If your submission is late, you will lose 1% of your earned score for every two
-hours (rounded up) your project is late.
 
 Afterthought
 ------------
